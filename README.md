@@ -18,4 +18,4 @@ Focus will return to code pane after execution, so you can continue coding witho
 
 ## Acknowledgments
 
-* Code mainly from user FocusedWolf's answer on https://stackoverflow.com/questions/18948491/running-python-code-in-vim with modifications to buffer aesthetics and focus behaviour done by me.
+* Thank God for StackOverflow!!
