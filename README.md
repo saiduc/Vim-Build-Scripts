@@ -20,6 +20,9 @@ The output is shown in a buffer below the code buffer. New buffer is created onl
 
 Focus will return to code pane after execution, so you can continue coding without disturbance.
 
+## License
+This project is licensed under the terms of the MIT license. Do whatever you want with it!
+
 ## Acknowledgments
 
 * https://stackoverflow.com/questions/18948491/running-python-code-in-vim was very useful to get up and running with the Python scripts, I just had to make some modifications to buffer behavior and make a C++ script.
